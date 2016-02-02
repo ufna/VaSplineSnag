@@ -12,6 +12,8 @@ Key features:
 
 Current version: **1.0 RC 1** (tested for UE 4.9-4.10)
 
+![SCREENSHOT](SCREENSHOT.jpg)
+
 
 Legal info
 ----------
